@@ -26,7 +26,7 @@ I like building low-level tools and systems in C++ to improve my skills that are
 I'm very open to contribution on my projects (except for Open Chat until May as it is a school project).
 Feel free to open a Pull Request, but make sure to right human readable code. **Everything is Open Source, so make sure you are okay with that before opening a PR**
 
-### Conact
+### Contact
 Send me a message on the contact page of my website.
 
 https://openoted.com/contact
