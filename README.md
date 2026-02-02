@@ -4,11 +4,11 @@ I like building low-level tools and systems in C++ to improve my skills that are
 ### I'm currently working on:
  - [**Open Chat**](https://github.com/Bean91/Open-Chat) - a small language model written in C++ from scratch
  - [**Open Alert**](https://github.com/Bean91/Open-Alert) - a school safety device for Connecticut Science and Engineering Fair
- - [**OpeNoted**](https://openoted.com) - my simple portfolio website
 
 ### My finished (version 1 for most) projects:
  - [**Open Render**](https://github.com/Bean91/Open-Render) - a single-header C++ 3D rendering engine that outputs raw RGBA
  - [**Open Encrypt**](https://github.com/Bean91/Open-Encrypt) - simple traditional cipher demos, (to be revamped)
+ - [**OpeNoted**](https://openoted.com) - my simple portfolio website
  - [**Stew and Ben Inc.**](https://github.com/StewandBenInc/StewandBeninc) - a website I made with a friend
 
 ### My languages
