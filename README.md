@@ -2,10 +2,10 @@
 I like building low-level tools and systems in C++ to improve my skills that are focused on open-souce readability and documentation
 
 ### I'm currently working on:
- - [**Open Chat**](https://github.com/Bean91/Open-Chat) - a small language model written in C++ from scratch
  - [**Open Alert**](https://github.com/Bean91/Open-Alert) - a school safety device for Connecticut Science and Engineering Fair
 
 ### My finished (version 1 for most) projects:
+ - [**Open Chat**](https://github.com/Bean91/Open-Chat) - a small language model written in C++ from scratch
  - [**Open Render**](https://github.com/Bean91/Open-Render) - a single-header C++ 3D rendering engine that outputs raw RGBA
  - [**Open Encrypt**](https://github.com/Bean91/Open-Encrypt) - simple traditional cipher demos, (to be revamped)
  - [**OpeNoted**](https://openoted.com) - my simple portfolio website
